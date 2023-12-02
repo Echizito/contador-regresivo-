@@ -13,6 +13,11 @@ Como se muestra en la imagen se agrega la fecha actual y la fecha en la que expi
 
 Aqui una imagen por secciones del codigo. 
 
+
+
+
+
+
 ![image](https://github.com/Echizito/contador-regresivo-/assets/102339093/2f9422d9-a631-401e-acf6-7bcca26c3953)
 
 
